@@ -8,4 +8,5 @@
 **O - Open Close Principle**
 
 - Open for extension but closed for modification
+- Any method of a class which is test & live, should not be modified & instead if the requirement comes, it should just be extended - as in - make a interface and implement it from all the cases you want.
 - 
